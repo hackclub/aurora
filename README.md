@@ -1,6 +1,6 @@
 # Aurora 🌌✨💫
 
-Aurora is [Hack Club]([hackclub.com](https://hackclub.com/))'s 2025 San Francisco [Athena Event](https://athena.hackclub.dev/), an initiative started to bridge the gender gap in technology (prev. [Days of Service](https://daysofservice.hackclub.com/)).
+Aurora is [Hack Club]([hackclub.com](https://hackclub.com/))'s 2025 San Francisco [Athena Event](https://athena.hackclub.com/), an initiative started to bridge the gender gap in technology (prev. [Days of Service](https://daysofservice.hackclub.com/)).
 
 On the weekend of July 18th-20th, 2025, a group of female Hack Clubbers gathered to host a 3-day summer camp coding learnathon for young middle and high school students in SF. By the end of the event, all the girls had created their first coding project! 💻
 
