@@ -27,7 +27,7 @@ Aurora happened at WeFunder HQ @ 1885 Mission St, SF. I highly recommend that fu
 
 ## 🥂 Women in STEM Dinner
 
-We had a wonderful dinner with 7 women & 14 girls at the WeFunder HQ backyard & kitchen area. Our caterer was Kitchen Woori (also highly recommend using again) & we were able to donate extra food to a seperate dinner nearby + venue.
+We had a wonderful dinner with 7 women & 14 girls at the WeFunder HQ backyard & kitchen area. Our caterer was Kitchen Woori (also highly recommend using again) & we were able to donate extra food to a seperate dinner nearby + venue. All of them were open to sharing advice and loved learning more about hack club and what we were doing for Athena.
 
 <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/10530b2b2988dd042503725bddf8b0a8cd4ad31e_image_720.png" width="500px">
 <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/fa54907d946cf73b32d262025f1c2626addd2c9c_image_720.png" width="500px">
@@ -45,6 +45,16 @@ We split our 3 days into seperate workshop tracks:
 - **Day 3** Game Development: Girls worked on building their own platformer games in GoDot with levels, lives, hearts, obstacles, etc.
 
 My favorite part of the event is how deeply we impacted each individual who attended the event and could give everyone such a personalized experience with lots of 1-on-1 conversation. The passion and excitement shown by the attendees as they demoed projects at the end of the day every day was super rewarding for the entire team. 
+
+## 💵 The Budget
+
+Aurora started out with an exact budget of $5,000. Here is an approximate breakdown:
+| Item | Amount ($) |
+|------|--------|
+|✈️ Travel for volunteers| 500 + 200 |
+|👚 Hackathon: Swag (Sweatshirts + Stickers), Decorations, Workshops, Snacks + Lunch | 800 |
+|🥘 Dinner | 1,500 |
+|🐶 Other expenses | 2000 |
 
 If you're interested in checking out every transaction, our finances for Aurora has been open-sourced [here](https://hcb.hackclub.com/aurora) through Hack Club Bank's [transparency mode](https://headwayapp.co/bank-changelog/transparent-finances-optional-feature-151427)
 
