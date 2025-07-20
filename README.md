@@ -23,7 +23,7 @@ Like past Days of Service & Athena events such as Blossom, Ascend, Horizon, Alpi
 |🥤 Mon  | Departures + exploring SF |
 
 ## Venue
-Aurora happened at WeFunder HQ @ 1885 Mission St, SF. I highly reccomend that future hackathons look into using this space, since it's so colorful, perfect for a large hackathon, and the building owner (Dinki) is very accomodating. The venue is also a co-working space for other young people working in technology.
+Aurora happened at WeFunder HQ @ 1885 Mission St, SF. I highly recommend that future hackathons look into using this space, since it's so colorful, perfect for a large hackathon, and the building owner (Dinki) is very accomodating. The venue is also a co-working space for other young people working in technology.
 
 ## 🥂 Women in STEM Dinner
 
@@ -43,6 +43,8 @@ We split our 3 days into seperate workshop tracks:
 - **Day 1** Keepsake Web Development: Girls worked on building a website with CSS features for 🍨. Extra features (bouncing text, custom cursor, etc) would give them more points to spend on ice cream toppings later in the day. This workshop was made by Kai Ling & Tongyu from [Keepsake Singapore](https://keepsake.hackclub.com/)
 - **Day 2** Pathfinder PCB: Girls worked on building a macropad with KiCad software. This workshop is part of a YSWS made by Meghana and you can try it yourself [here](http://pathfinder.hackclub.com/). Later in the day, we took the girls to a field trip @ [Lectrify HQ](https://www.lectrify.it/) to take a tour of the makerspace and learn fun use cases of printed circuit boards & other hardware tools from the founder. They also received free hardware kits.
 - **Day 3** Game Development: Girls worked on building their own platformer games in GoDot with levels, lives, hearts, obstacles, etc.
+
+My favorite part of the event is how deeply we impacted each individual who attended the event and could give everyone such a personalized experience with lots of 1-on-1 conversation. The passion and excitement shown by the attendees as they demoed projects at the end of the day every day was super rewarding for the entire team. 
 
 If you're interested in checking out every transaction, our finances for Aurora has been open-sourced [here](https://hcb.hackclub.com/aurora) through Hack Club Bank's [transparency mode](https://headwayapp.co/bank-changelog/transparent-finances-optional-feature-151427)
 
