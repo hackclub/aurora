@@ -29,6 +29,11 @@ Aurora happened at WeFunder HQ @ 1885 Mission St, SF. I highly reccomend that fu
 
 We had a wonderful dinner with 7 women & 14 girls at the WeFunder HQ backyard & kitchen area. Our caterer was Kitchen Woori (also highly recommend using again) & we were able to donate extra food to a seperate dinner nearby + venue.
 
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/10530b2b2988dd042503725bddf8b0a8cd4ad31e_image_720.png" width="500px">
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/fa54907d946cf73b32d262025f1c2626addd2c9c_image_720.png" width="500px">
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/dc53dd199249a1c1da67b0a3d67a0c9d322c3b83_image_720.png" width="500px">
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/5405b0160464b778ed23b953f41ecd6ffa96dea7_image_720.png" width="500px">
+
 We had sent ~20 invites (all confirmed) & the turn out was lower than expected, but the atmosphere of the event was still very welcoming.
 
 ## 🧩 Workshops
@@ -41,7 +46,7 @@ We split our 3 days into seperate workshop tracks:
 
 If you're interested in checking out every transaction, our finances for Aurora has been open-sourced [here](https://hcb.hackclub.com/aurora) through Hack Club Bank's [transparency mode](https://headwayapp.co/bank-changelog/transparent-finances-optional-feature-151427)
 
-<img src="https://cloud-aq41mqgt8-hack-club-bot.vercel.app/0image.png" width="500px">
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/bab9232fc745714a27d24566d2b03b0fcbae3ed7_image_720.png" width="500px">
 
 ## Meet the Team!
 
