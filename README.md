@@ -56,7 +56,7 @@ Aurora started out with an exact budget of $5,000. Here is an approximate breakd
 |🥘 Dinner | 1,500 |
 |🐶 Other expenses | 2000 |
 
-If you're interested in checking out every transaction, our finances for Aurora has been open-sourced [here](https://hcb.hackclub.com/aurora) through Hack Club Bank's [transparency mode](https://headwayapp.co/bank-changelog/transparent-finances-optional-feature-151427)
+If you're interested in checking out every transaction, our finances for Aurora has been open-sourced [here](https://hcb.hackclub.com/aurora-sf) through Hack Club Bank's [transparency mode](https://headwayapp.co/bank-changelog/transparent-finances-optional-feature-151427)
 
 <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/bab9232fc745714a27d24566d2b03b0fcbae3ed7_image_720.png" width="500px">
 
