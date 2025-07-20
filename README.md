@@ -20,15 +20,24 @@ Like past Days of Service & Athena events such as Blossom, Ascend, Horizon, Alpi
 |💻 Fri | Day 1 of the hackathon + dinner with inspiring women leaders|
 |💻 Sat  | Day 2 of the hackathon |
 |💻 Sun  | Day 3 of the hackathon |
-|🥤 Mon  | Departures + exploring ATL |
+|🥤 Mon  | Departures + exploring SF |
+
+## Venue
+Aurora happened at WeFunder HQ @ 1885 Mission St, SF. I highly reccomend that future hackathons look into using this space, since it's so colorful, perfect for a large hackathon, and the building owner (Dinki) is very accomodating.
 
 ## 🥂 Women in STEM Dinner
 
-// will update
+We had a wonderful dinner with 7 women & 14 girls at the WeFunder HQ backyard & kitchen area. Our caterer was Kitchen Woori (also highly recommend using again) & we were able to donate extra food to a seperate dinner nearby + venue.
+
+We had sent ~20 invites (all confirmed) & the turn out was lower than expected, but the atmosphere of the event was still very welcoming.
 
 ## 🧩 Workshops
 
-// will update
+We split our 3 days into seperate workshop tracks:
+
+- Day 1: Web Development (Build a website with CSS features for 🍨)
+- Day 2: Pathfinder PCB (Build a Macropad)
+- Day 3: Game Development (Build a platformer with GoDot)
 
 If you're interested in checking out every transaction, our finances for Aurora has been open-sourced [here](https://hcb.hackclub.com/aurora) through Hack Club Bank's [transparency mode](https://headwayapp.co/bank-changelog/transparent-finances-optional-feature-151427)
 
